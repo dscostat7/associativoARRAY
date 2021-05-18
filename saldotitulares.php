@@ -1,7 +1,5 @@
 <?php
 
-namespace ActionsBank;
-
 require_once '/src/ActionsBank/ArrayUtils.php';
 
 
